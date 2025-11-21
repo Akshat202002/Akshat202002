@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Akshat from India.
 - 👀 I’m interested in web development, machine learning and app development.
-- 💞️ I’m looking to collaborate on web dev projects. 
 - 📫 Mail- akshatsamdani23@gmail.com
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/akshat-samdani)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16384199/akshat-samdani)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akshat_samdani)<br>
